@@ -20,29 +20,18 @@ Credit Card Number Generator & Validator https://www.freeformatter.com/credit-ca
 
 В качестве тестовых данных использовались:
 
-VISA: 4474351213852441 
-
-MasterCard: 5441522334058608 
-
-American Express (AMEX): 372040193357379 
-
-Discover: 6011667116683608 
-
-JCB:  3589699126139643 
-
-Diners Club - North America:  5586515405970524 
-
-Diners Club - Carte Blanche:  30332705862457 
-
-Diners Club - International:  36193993665216 
-
-Maestro:  6759405015140735 
-
-Visa Electron:  4844399202183198 
-
-InstaPayment:  6377363653291157 
-
-
+Наборы номеров кредитных карт разных платежных систем
+(VISA;
+MasterCard;
+American Express (AMEX);
+Discover;
+JCB;
+Diners Club - North America;
+Diners Club - Carte Blanche;
+Diners Club - International;
+Maestro;
+Visa Electron;
+InstaPaymen)
 
 Тестирование производилось в следующем окружении:
 
